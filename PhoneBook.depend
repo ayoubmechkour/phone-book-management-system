@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1724475747 source:c:\users\ayoub\onedrive\desktop\phonebook\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+
